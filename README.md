@@ -11,6 +11,8 @@
 
 
 - 🌱 I’m currently learning **Redux**
+  
+- 👯 I would like to work on a React Project
 
 - 👨‍💻 My portfolio at: [https://www.armandbredean.com/](https://www.armandbredean.com/)
 
