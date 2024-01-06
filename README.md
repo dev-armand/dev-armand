@@ -22,10 +22,10 @@
    and this is some of the things I have learned from building those projects:
 </p>
 <p align="left">
-I learned how to use html and CSS to create some basics websites, I used Javascript to create some functions for a making a carousel or making some calls to an API, I used React to create a single page only apllication with some reusable components, I used Redux to manage the state of an application, I used SASS to create some mixins and variables and I learned how to create a swagger file for an API and I also used Trello to manage my projects.
+I learned how to use html and CSS to create some basics websites, I used Javascript to create some functions for a carousel or making some calls to an API, I used React to create a single page only apllication with some reusable components, I used Redux to manage the state of an application, I used SASS to create some mixins and variables and I learned how to create a swagger file for an API and I also used Trello to manage my projects.
 </p>
 <p align="left">
-You can found some of those projects in my reposiory.
+You can found some of those projects in my repository.
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
