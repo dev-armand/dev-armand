@@ -18,7 +18,7 @@
 <br>
 <h3 align="left">Dev Background</h3>
 <p align="left">
-  I have graduated from an online web developper school "Openclassrooms" were I have built 12 projects
+  I have graduated from an online web developer school "Openclassrooms" were I have built 12 projects
    and this is some of the things I have learned from building those projects:
 </p>
 <p align="left">
