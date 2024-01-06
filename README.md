@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Armand</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img align="right" alt="penguin" width="400" margin-left="1rem" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU0MW5tMzYzcXZvdnAybzJ4Y3JxeGpnNHFlbTlxN2kya3JnanNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
+<br>
+<br>
+<br>
+<img align="right" alt="penguin" width="400" margin-left="1rem" 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU0MW5tMzYzcXZvdnAybzJ4Y3JxeGpnNHFlbTlxN2kya3JnanNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 - 🌱 I’m currently learning **Redux**
 
