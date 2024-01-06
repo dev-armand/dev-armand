@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 My portfolio is available at: [https://www.armandbredean.com/](https://www.armandbredean.com/)
+- 👨‍💻 My portfolio at: [https://www.armandbredean.com/](https://www.armandbredean.com/)
 
 - 📫 You can contact me at: **armand.bredean@gmail.com**
 <br>
